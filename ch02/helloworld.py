@@ -1,0 +1,1 @@
+print("hello world!")   # print() : () 안 내용(값)을 화면에 출력하라는 뜻의 명령어

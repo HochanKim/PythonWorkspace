@@ -1,0 +1,10 @@
+print (5 > 10)
+print (5 < 10)
+print('============')
+print (False)
+print (True)
+print('============')
+print (not False)
+print (not True)
+print('============')
+print (not (5 > 10))    # "5는 10보다 크지 않다."
